@@ -1,7 +1,7 @@
 # yusuf
 this is my first repo, no important information
 <main>
-<h1> *Crypto Vocab </h1>
+<h1> Crypto Vocab </h1>
 <h2> 5 vocabulary </h2>
 1. Cipher
 * A specific set of codec (code/decode) rules
